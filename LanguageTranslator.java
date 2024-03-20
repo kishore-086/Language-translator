@@ -1,5 +1,3 @@
-package com.example.languageTranslator.java;
-
 import java.util.Scanner;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
